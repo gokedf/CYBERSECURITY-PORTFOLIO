@@ -61,10 +61,6 @@ SFTP encrypts credentials and data, making it secure for enterprise, finance, an
 Wireshark analysis confirms the importance of encryption for safe file transfers.
 
 ## Screenshots
-*(Add your screenshots here later)*
 ![FTP Screenshot](./screenshots/ftp_screenshot1.png)
+![FTP Screenshot](./screenshots/ftp_screenshot2.png)
 ![SFTP Screenshot](./screenshots/sftp_screenshot1.png)
-
-## Files
-- [FTP vs SFTP Wireshark Capture (.pcap)](./files/ftp_vs_sftp.pcap)
-- [Test file](./files/testfile.txt)
